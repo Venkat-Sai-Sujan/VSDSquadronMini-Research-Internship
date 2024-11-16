@@ -36,3 +36,37 @@ SPIKE
 
 
 </details>
+
+
+
+<details>
+  <summary>Task 3 of VSDSquadronMini-Research-Internship:</summary>
+
+1) Various RISC-V instruction type (R, I, S, B, U, J) 
+
+2) 15 unique RISC-V instructions from riscv-objdmp of the application code 
+
+3) Exact 32-bit instruction code in the instruction type format for 15 unique instructions
+
+4) The 32-bit pattern 
+
+
+
+
+
+
+
+</details>
+
+
+
+<details>
+  <summary>Task 4 of VSDSquadronMini-Research-Internship:</summary>
+
+RISC-V Core Verilog netlist and testbench for functional simulation experiment. 
+Waveform snapshots for the commands.
+
+
+
+</details>
+
