@@ -1,0 +1,3 @@
+SPIKE Simulation and observation with -O1 and -Ofast. Upload snapshot of compiled C Code, RISC-V Objdmp with above options on your GitHub repo. 
+
+Write a simple C program for any simple application and compile with RISC-V GCC/SPIKE"
