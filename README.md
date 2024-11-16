@@ -15,3 +15,24 @@ The research internship program primarily focuses on the RISC-V architecture and
 ![Screenshot 2024-10-23 232440](https://github.com/user-attachments/assets/bf11f7ca-fe8c-47fd-a0f2-faca7efd8452)
 
 </details>
+
+
+<details>
+  <summary>Task 2 of VSDSquadronMini-Research-Internship:</summary>
+
+1. SPIKE Simulation and observation with -O1 and -Ofast
+
+C Code:
+
+RISC V Objdmp
+
+
+
+2. C program
+
+RISC V GCC 
+
+SPIKE
+
+
+</details>
